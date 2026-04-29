@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom EPG">
+
+  <!-- CAMARA -->
+  <channel id="Zcamara.us_SD">
+    <display-name>In house</display-name>
+  </channel>
+
+  <!-- VISION TV -->
+  <channel id="VisionTV.gt_SD">
+    <display-name>Visión TV</display-name>
+  </channel>
+
+  <!-- TELEHIT -->
+  <channel id="TelehitMusica.mx_SD">
+    <display-name>Telehit Música</display-name>
+  </channel>
+
+
+  <!-- PROGRAMACION -->
+
+  <programme start="20260428000000 -0600" stop="20260428060000 -0600" channel="Zcamara.us_SD">
+    <title lang="es">Monitoreo nocturno</title>
+  </programme>
+
+  <programme start="20260428060000 -0600" stop="20260428180000 -0600" channel="Zcamara.us_SD">
+    <title lang="es">Actividad diurna</title>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260429000000 -0600" channel="Zcamara.us_SD">
+    <title lang="es">Monitoreo vespertino</title>
+  </programme>
+
+
+  <programme start="20260428060000 -0600" stop="20260428090000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Revista Matutina</title>
+  </programme>
+
+  <programme start="20260428090000 -0600" stop="20260428120000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Programación variada</title>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428140000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Noticias del mediodía</title>
+  </programme>
+
+  <programme start="20260428140000 -0600" stop="20260428180000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Tardes en familia</title>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428220000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Franja estelar</title>
+  </programme>
+
+  <programme start="20260428220000 -0600" stop="20260429000000 -0600" channel="VisionTV.gt_SD">
+    <title lang="es">Cierre de programación</title>
+  </programme>
+
+
+  <programme start="20260428000000 -0600" stop="20260428080000 -0600" channel="TelehitMusica.mx_SD">
+    <title lang="es">Hits de madrugada</title>
+  </programme>
+
+  <programme start="20260428080000 -0600" stop="20260428120000 -0600" channel="TelehitMusica.mx_SD">
+    <title lang="es">Top Latino</title>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428160000 -0600" channel="TelehitMusica.mx_SD">
+    <title lang="es">Mix musical</title>
+  </programme>
+
+  <programme start="20260428160000 -0600" stop="20260428200000 -0600" channel="TelehitMusica.mx_SD">
+    <title lang="es">Ranking del día</title>
+  </programme>
+
+  <programme start="20260428200000 -0600" stop="20260429000000 -0600" channel="TelehitMusica.mx_SD">
+    <title lang="es">Especial musical</title>
+  </programme>
+
+</tv>
