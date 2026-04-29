@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <!-- CAMARA -->
+  <channel id="Zcamara.us@SD">
+    <display-name>In house</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428060000 -0600" channel="Zcamara.us@SD">
+    <title>Monitoreo nocturno</title>
+    <desc>Transmisión continua de cámara en vivo durante la noche.</desc>
+  </programme>
+
+  <programme start="20260428060000 -0600" stop="20260428180000 -0600" channel="Zcamara.us@SD">
+    <title>Actividad diurna</title>
+    <desc>Visualización en tiempo real del entorno durante el día.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428235959 -0600" channel="Zcamara.us@SD">
+    <title>Monitoreo vespertino</title>
+    <desc>Seguimiento en vivo de la actividad en la tarde y noche.</desc>
+  </programme>
+
+
+  <!-- VISION TV -->
+  <channel id="VisionTV.gt@SD">
+    <display-name>Visión TV</display-name>
+  </channel>
+
+  <programme start="20260428060000 -0600" stop="20260428090000 -0600" channel="VisionTV.gt@SD">
+    <title>Revista Matutina</title>
+    <desc>Noticias, entrevistas y segmentos de interés general.</desc>
+  </programme>
+
+  <programme start="20260428090000 -0600" stop="20260428120000 -0600" channel="VisionTV.gt@SD">
+    <title>Programación variada</title>
+    <desc>Contenido cultural, educativo y entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428140000 -0600" channel="VisionTV.gt@SD">
+    <title>Noticias del mediodía</title>
+    <desc>Resumen informativo nacional e internacional.</desc>
+  </programme>
+
+  <programme start="20260428140000 -0600" stop="20260428180000 -0600" channel="VisionTV.gt@SD">
+    <title>Tardes en familia</title>
+    <desc>Series y programas de entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428220000 -0600" channel="VisionTV.gt@SD">
+    <title>Franja estelar</title>
+    <desc>Contenido principal del canal con programas destacados.</desc>
+  </programme>
+
+  <programme start="20260428220000 -0600" stop="20260428235959 -0600" channel="VisionTV.gt@SD">
+    <title>Cierre de programación</title>
+    <desc>Resumen del día y contenido nocturno.</desc>
+  </programme>
+
+
+  <!-- TELEHIT -->
+  <channel id="TelehitMusica.mx@SD">
+    <display-name>Telehit Música</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428080000 -0600" channel="TelehitMusica.mx@SD">
+    <title>Hits de madrugada</title>
+    <desc>Selección continua de música popular.</desc>
+  </programme>
+
+  <programme start="20260428080000 -0600" stop="20260428120000 -0600" channel="TelehitMusica.mx@SD">
+    <title>Top Latino</title>
+    <desc>Los videos más populares del momento.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428160000 -0600" channel="TelehitMusica.mx@SD">
+    <title>Mix musical</title>
+    <desc>Variedad de géneros musicales para todos los gustos.</desc>
+  </programme>
+
+  <programme start="20260428160000 -0600" stop="20260428200000 -0600" channel="TelehitMusica.mx@SD">
+    <title>Ranking del día</title>
+    <desc>Conteo de los éxitos más escuchados.</desc>
+  </programme>
+
+  <programme start="20260428200000 -0600" stop="20260428235959 -0600" channel="TelehitMusica.mx@SD">
+    <title>Especial musical</title>
+    <desc>Bloques dedicados a artistas y géneros.</desc>
+  </programme>
+
+
+  <!-- ADN40 -->
+  <channel id="ADN40.mx@SD">
+    <display-name>ADN 40</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428060000 -0600" channel="ADN40.mx@SD">
+    <title>Noticias madrugada</title>
+    <desc>Actualización informativa continua.</desc>
+  </programme>
+
+  <programme start="20260428060000 -0600" stop="20260428100000 -0600" channel="ADN40.mx@SD">
+    <title>Noticias matutinas</title>
+    <desc>Resumen de noticias al iniciar el día.</desc>
+  </programme>
+
+  <programme start="20260428100000 -0600" stop="20260428140000 -0600" channel="ADN40.mx@SD">
+    <title>Información en vivo</title>
+    <desc>Cobertura de eventos y análisis.</desc>
+  </programme>
+
+  <programme start="20260428140000 -0600" stop="20260428180000 -0600" channel="ADN40.mx@SD">
+    <title>Noticias de la tarde</title>
+    <desc>Actualización nacional e internacional.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428230000 -0600" channel="ADN40.mx@SD">
+    <title>Noticias estelares</title>
+    <desc>Principales noticias del día.</desc>
+  </programme>
+
+  <programme start="20260428230000 -0600" stop="20260428235959 -0600" channel="ADN40.mx@SD">
+    <title>Resumen nocturno</title>
+    <desc>Lo más importante de la jornada.</desc>
+  </programme>
+
+
+<!-- CANAL 3 -->
+  <channel id="canal3.gt@SD">
+    <display-name>Canal 3</display-name>
+  </channel>
+
+  <programme start="20260428060000 -0600" stop="20260428090000 -0600" channel="canal3.gt@SD">
+    <title>Buenos días</title>
+    <desc>Revista matutina con noticias, clima y entrevistas.</desc>
+  </programme>
+
+  <programme start="20260428090000 -0600" stop="20260428120000 -0600" channel="canal3.gt@SD">
+    <title>Series matutinas</title>
+    <desc>Programas familiares y contenido ligero.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428140000 -0600" channel="canal3.gt@SD">
+    <title>Noticiero</title>
+    <desc>Información nacional e internacional.</desc>
+  </programme>
+
+  <programme start="20260428140000 -0600" stop="20260428180000 -0600" channel="canal3.gt@SD">
+    <title>Tardes de entretenimiento</title>
+    <desc>Series, concursos y programas variados.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428220000 -0600" channel="canal3.gt@SD">
+    <title>Horario estelar</title>
+    <desc>Programas principales del canal.</desc>
+  </programme>
+
+  <programme start="20260428220000 -0600" stop="20260428235959 -0600" channel="canal3.gt@SD">
+    <title>Cine nocturno</title>
+    <desc>Películas y contenido nocturno.</desc>
+  </programme>
+
+
+  <!-- TELEVISIETE -->
+  <channel id="canal7.gt@SD">
+    <display-name>Televisiete</display-name>
+  </channel>
+
+  <programme start="20260428070000 -0600" stop="20260428100000 -0600" channel="canal7.gt@SD">
+    <title>Bloque juvenil</title>
+    <desc>Series y contenido juvenil.</desc>
+  </programme>
+
+  <programme start="20260428100000 -0600" stop="20260428130000 -0600" channel="canal7.gt@SD">
+    <title>Entretenimiento</title>
+    <desc>Programas variados y concursos.</desc>
+  </programme>
+
+  <programme start="20260428130000 -0600" stop="20260428150000 -0600" channel="canal7.gt@SD">
+    <title>Series</title>
+    <desc>Series populares y contenido internacional.</desc>
+  </programme>
+
+  <programme start="20260428150000 -0600" stop="20260428190000 -0600" channel="canal7.gt@SD">
+    <title>Tardes 7</title>
+    <desc>Contenido de entretenimiento continuo.</desc>
+  </programme>
+
+  <programme start="20260428190000 -0600" stop="20260428230000 -0600" channel="canal7.gt@SD">
+    <title>Prime time</title>
+    <desc>Programación estelar del canal.</desc>
+  </programme>
+
+
+  <!-- NIM TV -->
+  <channel id="NimTV.gt@SD">
+    <display-name>Nim TV</display-name>
+  </channel>
+
+  <programme start="20260428090000 -0600" stop="20260428120000 -0600" channel="NimTV.gt@SD">
+    <title>Programación cultural</title>
+    <desc>Contenido educativo y cultural.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428160000 -0600" channel="NimTV.gt@SD">
+    <title>Documentales</title>
+    <desc>Producciones informativas y educativas.</desc>
+  </programme>
+
+  <programme start="20260428160000 -0600" stop="20260428200000 -0600" channel="NimTV.gt@SD">
+    <title>Contenido regional</title>
+    <desc>Programas locales y culturales.</desc>
+  </programme>
+
+
+  <!-- BARBE TV -->
+  <channel id="BarbeTV.gt@SD">
+    <display-name>Barbe TV</display-name>
+  </channel>
+
+  <programme start="20260428090000 -0600" stop="20260428130000 -0600" channel="BarbeTV.gt@SD">
+    <title>Revista local</title>
+    <desc>Noticias y contenido comunitario.</desc>
+  </programme>
+
+  <programme start="20260428130000 -0600" stop="20260428180000 -0600" channel="BarbeTV.gt@SD">
+    <title>Entretenimiento local</title>
+    <desc>Programas y eventos de la comunidad.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428210000 -0600" channel="BarbeTV.gt@SD">
+    <title>Programación estelar</title>
+    <desc>Contenido principal del canal.</desc>
+  </programme>
+
+
+  <!-- LAS ESTRELLAS -->
+  <channel id="LasEstrellas.mx@SD">
+    <display-name>Las Estrellas</display-name>
+  </channel>
+
+  <programme start="20260428060000 -0600" stop="20260428120000 -0600" channel="LasEstrellas.mx@SD">
+    <title>Telenovelas matutinas</title>
+    <desc>Dramas y novelas populares.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428160000 -0600" channel="LasEstrellas.mx@SD">
+    <title>Programas familiares</title>
+    <desc>Contenido para toda la familia.</desc>
+  </programme>
+
+  <programme start="20260428160000 -0600" stop="20260428220000 -0600" channel="LasEstrellas.mx@SD">
+    <title>Telenovelas estelares</title>
+    <desc>Producciones principales del canal.</desc>
+  </programme>
+
+  <programme start="20260428220000 -0600" stop="20260428235959 -0600" channel="LasEstrellas.mx@SD">
+    <title>Shows nocturnos</title>
+    <desc>Entretenimiento y programas especiales.</desc>
+  </programme>
+
+
+  <!-- LAS ESTRELLAS LATAM -->
+  <channel id="LasEstrellasLatinAmerica.mx@SD">
+    <display-name>Las Estrellas LATAM</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428235959 -0600" channel="LasEstrellasLatinAmerica.mx@SD">
+    <title>Programación internacional</title>
+    <desc>Contenido continuo de entretenimiento latino.</desc>
+  </programme>
+
+
+  <!-- AZTECA INTERNACIONAL -->
+  <channel id="AztecaInternacional.mx@SD">
+    <display-name>Azteca Internacional</display-name>
+  </channel>
+
+  <programme start="20260428060000 -0600" stop="20260428120000 -0600" channel="AztecaInternacional.mx@SD">
+    <title>Magazine matutino</title>
+    <desc>Noticias y entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428180000 -0600" channel="AztecaInternacional.mx@SD">
+    <title>Series y novelas</title>
+    <desc>Contenido dramático y entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428230000 -0600" channel="AztecaInternacional.mx@SD">
+    <title>Horario estelar</title>
+    <desc>Programas principales del canal.</desc>
+  </programme>
+
+
+  <!-- STAR CHANNEL -->
+  <channel id="StarChannel1.us@South">
+    <display-name>Star Channel</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428120000 -0600" channel="StarChannel1.us@South">
+    <title>Series continuas</title>
+    <desc>Maratón de series internacionales.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428180000 -0600" channel="StarChannel1.us@South">
+    <title>Películas de la tarde</title>
+    <desc>Selección de cine para la tarde.</desc>
+  </programme>
+
+  <programme start="20260428180000 -0600" stop="20260428230000 -0600" channel="StarChannel1.us@South">
+    <title>Prime time</title>
+    <desc>Películas y series destacadas.</desc>
+  </programme>
+
+
+  <channel id="STARChannel.fi@SD">
+    <display-name>Star Channel Finland</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428235959 -0600" channel="STARChannel.fi@SD">
+    <title>Programación internacional</title>
+    <desc>Series y películas europeas.</desc>
+  </programme>
+
+
+  <channel id="StarChannelLatinAmerica.us@South">
+    <display-name>Star Channel LATAM</display-name>
+  </channel>
+
+  <programme start="20260428000000 -0600" stop="20260428120000 -0600" channel="StarChannelLatinAmerica.us@South">
+    <title>Series</title>
+    <desc>Contenido internacional continuo.</desc>
+  </programme>
+
+  <programme start="20260428120000 -0600" stop="20260428235959 -0600" channel="StarChannelLatinAmerica.us@South">
+    <title>Películas</title>
+    <desc>Bloque de cine y entretenimiento.</desc>
+  </programme>
+
+</tv>
