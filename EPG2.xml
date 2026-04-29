@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <!-- CAMARA -->
+  <channel id="Zcamara.us_SD">
+    <display-name>In house</display-name>
+  </channel>
+
+  <programme start="20260428000000-0600" stop="20260428060000-0600" channel="Zcamara.us_SD">
+    <title>Monitoreo nocturno</title>
+    <desc>Transmisión continua de cámara en vivo durante la noche.</desc>
+  </programme>
+
+  <programme start="20260428060000-0600" stop="20260428180000-0600" channel="Zcamara.us_SD">
+    <title>Actividad diurna</title>
+    <desc>Visualización en tiempo real del entorno durante el día.</desc>
+  </programme>
+
+  <programme start="20260428180000-0600" stop="20260428235959-0600" channel="Zcamara.us_SD">
+    <title>Monitoreo vespertino</title>
+    <desc>Seguimiento en vivo de la actividad en la tarde y noche.</desc>
+  </programme>
+
+
+  <!-- VISION TV -->
+  <channel id="VisionTV.gt_SD">
+    <display-name>Visión TV</display-name>
+  </channel>
+
+  <programme start="20260428060000-0600" stop="20260428090000-0600" channel="VisionTV.gt_SD">
+    <title>Revista Matutina</title>
+    <desc>Noticias, entrevistas y segmentos de interés general.</desc>
+  </programme>
+
+  <programme start="20260428090000-0600" stop="20260428120000-0600" channel="VisionTV.gt_SD">
+    <title>Programación variada</title>
+    <desc>Contenido cultural, educativo y entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428120000-0600" stop="20260428140000-0600" channel="VisionTV.gt_SD">
+    <title>Noticias del mediodía</title>
+    <desc>Resumen informativo nacional e internacional.</desc>
+  </programme>
+
+  <programme start="20260428140000-0600" stop="20260428180000-0600" channel="VisionTV.gt_SD">
+    <title>Tardes en familia</title>
+    <desc>Series y programas de entretenimiento.</desc>
+  </programme>
+
+  <programme start="20260428180000-0600" stop="20260428220000-0600" channel="VisionTV.gt_SD">
+    <title>Franja estelar</title>
+    <desc>Contenido principal del canal con programas destacados.</desc>
+  </programme>
+
+  <programme start="20260428220000-0600" stop="20260428235959-0600" channel="VisionTV.gt_SD">
+    <title>Cierre de programación</title>
+    <desc>Resumen del día y contenido nocturno.</desc>
+  </programme>
+
+
+  <!-- TELEHIT -->
+  <channel id="TelehitMusica.mx_SD">
+    <display-name>Telehit Música</display-name>
+  </channel>
+
+  <programme start="20260428000000-0600" stop="20260428080000-0600" channel="TelehitMusica.mx_SD">
+    <title>Hits de madrugada</title>
+    <desc>Selección continua de música popular.</desc>
+  </programme>
+
+  <programme start="20260428080000-0600" stop="20260428120000-0600" channel="TelehitMusica.mx_SD">
+    <title>Top Latino</title>
+    <desc>Los videos más populares del momento.</desc>
+  </programme>
+
+  <programme start="20260428120000-0600" stop="20260428160000-0600" channel="TelehitMusica.mx_SD">
+    <title>Mix musical</title>
+    <desc>Variedad de géneros musicales para todos los gustos.</desc>
+  </programme>
+
+  <programme start="20260428160000-0600" stop="20260428200000-0600" channel="TelehitMusica.mx_SD">
+    <title>Ranking del día</title>
+    <desc>Conteo de los éxitos más escuchados.</desc>
+  </programme>
+
+  <programme start="20260428200000-0600" stop="20260428235959-0600" channel="TelehitMusica.mx_SD">
+    <title>Especial musical</title>
+    <desc>Bloques dedicados a artistas y géneros.</desc>
+  </programme>
+
+</tv>
